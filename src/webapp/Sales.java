@@ -8,5 +8,5 @@ public class Sales {
     // ...
     // ..
 
-
+// more sales item added
 }
